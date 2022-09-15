@@ -21,7 +21,7 @@ import javax.annotation.PostConstruct;
 
 @Slf4j
 @RestController
-@Api(tags = "Credit Accounts")
+@Api(tags = "Clients")
 @Validated
 @RequiredArgsConstructor
 public class clientController {
